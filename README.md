@@ -1,4 +1,9 @@
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;I'm+Nour+Hammad.;&center=true&size=30">
+  </a>
+</h1>
+   
 <!--## Hi there 👋-->
 
 <!--
@@ -15,8 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello, I'm Nour Hammad
 
+## 😄 About Me
 A passionate software developer focused on building clean, maintainable, and scalable solutions using modern technologies and proven engineering principles.
 
 ## 🛠️ Technologies & Skills
@@ -25,17 +30,17 @@ A passionate software developer focused on building clean, maintainable, and sca
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
+---
 
 ### **Databases & Data Access:**
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-CC2927?style=for-the-badge&logo=.net&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=.net&logoColor=white)
-
+---
 ### **Frameworks:**
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
+---
 ### **Software Engineering Fundamentals:**
 ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-DD6633?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
